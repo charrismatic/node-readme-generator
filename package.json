@@ -1,0 +1,15 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A simple readme file generator from your projects package.json",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": {
+    "name": "Matt Harris",
+    "email": "m@ttharr.is",
+    "website": "https://ma.ttharr.is"
+  },
+  "license": "ISC"
+}
