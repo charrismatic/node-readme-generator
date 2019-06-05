@@ -1,5 +1,5 @@
 
-# readme-generator
+# node-readme-generator
 
 
 > A simple readme file generator from your projects package.json
@@ -11,7 +11,7 @@ Topics:
 
 ## About
 
-[https://github.com/charristmatic/readme-generator](https://github.com/charristmatic/readme-generator)
+[https://github.com/charristmatic/node-readme-generator](https://github.com/charristmatic/node-readme-generator)
 
 ### Author
 
