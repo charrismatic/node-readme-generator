@@ -6,10 +6,14 @@
   "scripts": {
     "start": "node index.js"
   },
+  "bin": {
+    "readme-generator": "./bin/readme-generator"
+  },
   "author": {
     "name": "Matt Harris",
     "email": "m@ttharr.is",
     "website": "https://ma.ttharr.is"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/charristmatic/readme-generator"
 }
